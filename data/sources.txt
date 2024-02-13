@@ -1,0 +1,4 @@
+WTI:   https://www.eia.gov/dnav/pet/hist/RWTCD.htm
+USO:   https://finance.yahoo.com/quote/USO/history?p=USO
+CL=F:  https://finance.yahoo.com/quote/CL%3DF/history?p=CL%3DF
+CLJ24: https://finance.yahoo.com/quote/CLJ24.NYM/history?p=CLJ24.NYM
